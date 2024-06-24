@@ -44,5 +44,5 @@ export const {
    useUpdateTaskMutation
 } = apiSlice;
 
-// NOTE - prividesTags: le da un nombre a la petición get para usarlo en las sgtes
+// NOTE - providesTags: le da un nombre a la petición get para usarlo en las sgtes
 // NOTE - invalidatesTags: usa el nombre dado en providesTags para volver a ejecutar esa peticion (algo parecido a actualizar el estado)
